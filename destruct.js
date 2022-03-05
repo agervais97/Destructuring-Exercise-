@@ -10,8 +10,8 @@
 //Obejct Destructuring 3
 
 //1. getUserData({firstName:"Alejandro", favorite:"purple"}); "Your name is Alejandro and you like purple."
-//2. getUserData({firstName:"Melissa"});
-//3. getUserData({})
+//2. getUserData({firstName:"Melissa"}); "Your name is Melisa and you like green."
+//3. getUserData({}), "Your name is undefined and you like green."
 
 //Array Destructuring 1
 
